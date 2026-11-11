@@ -23,8 +23,8 @@ A secure terminal-based chat application featuring end-to-end encryption, design
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/secure-terminal-chat.git
-   cd secure-chat-app
+   git clone https://github.com/DR13X/Secure-Chat-App.git
+   cd Secure-Chat-App
    ```
 2.**Set up virtual environment**:
 ```bash
